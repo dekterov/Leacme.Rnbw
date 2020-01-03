@@ -5,6 +5,7 @@
 This application features the ability to rainbow finger paint on your touchscreen device.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71703970-d169c100-2d94-11ea-985b-8cfa43088333.png)
 
 ## Application Compiling
 
